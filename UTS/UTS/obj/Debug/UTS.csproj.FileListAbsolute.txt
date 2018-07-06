@@ -1,0 +1,7 @@
+C:\Users\Cynthia Khoe\Desktop\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+C:\Users\Cynthia Khoe\Desktop\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia Khoe\Desktop\UTS\UTS\bin\Debug\UTS.exe.config
+C:\Users\Cynthia Khoe\Desktop\UTS\UTS\bin\Debug\UTS.exe
+C:\Users\Cynthia Khoe\Desktop\UTS\UTS\bin\Debug\UTS.pdb
+C:\Users\Cynthia Khoe\Desktop\UTS\UTS\obj\Debug\UTS.exe
+C:\Users\Cynthia Khoe\Desktop\UTS\UTS\obj\Debug\UTS.pdb
